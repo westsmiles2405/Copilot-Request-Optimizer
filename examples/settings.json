@@ -1,0 +1,9 @@
+{
+    "chat.useAgentSkills": true,
+    "chat.agentSkillsLocations": {
+        ".github/skills": true,
+        ".claude/skills": true,
+        "~/.copilot/skills": true,
+        "~/.claude/skills": true
+    }
+}
