@@ -159,15 +159,6 @@ Copilot-Request-Optimizer/
                 └── SKILL.md
 ```
 
-## 脱敏建议
-
-发布前检查：
-
-- 把绝对路径中的用户名替换成 `~`
-- 不要提交 `session-state`、`workspaceStorage`、`globalStorage`、`History`
-- Memory 文件只保留示例
-- 不要公开真实项目名、工作区路径、私人日志
-- `settings.json` 只贴最小必要片段
 
 ## 参与贡献
 
