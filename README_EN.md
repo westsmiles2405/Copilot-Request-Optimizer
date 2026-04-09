@@ -159,15 +159,6 @@ Copilot-Request-Optimizer/
                 └── SKILL.md
 ```
 
-## Sanitization Tips
-
-Before publishing your own fork:
-
-- Replace usernames in absolute paths with `~`
-- Don't commit `session-state`, `workspaceStorage`, `globalStorage`, `History`
-- Keep only sample memory snippets
-- Don't expose real project names, workspace paths, or private logs
-- Show only the minimal `settings.json` snippet
 
 ## License
 
